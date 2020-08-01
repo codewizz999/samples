@@ -99,13 +99,14 @@ in the browser if dont know how the code works iv provide link at the end otherw
 if you did get the output your're done congrats you finished the demo. 
 
 # Conclusion
-In practice we have learn how to manage projects by creating a javascript document in folder called web-dev used terminal commands access packages paths , we displayed output your name and amount variables.
+In practice we have learn how to manage projects by creating a javascript document 
+in folder called web-dev used terminal commands access packages paths , we displayed 
+output your name and amount variables.
 
 and bonus We then copied javascript server code from my github repo which displayed hello, world! in the browser these where basics for getting started.
 
 But thats not the end this demo was to show you that it possible to use localhost to make projects on android and tweak test your apps visuals before the final launchs.
 
-One More thing if you like more tutorials like these please like my page on facebook to be alerted on newer ones.
 
 Need more brain read more info about nodejs can be found here's in the link i promised you 
 
@@ -114,6 +115,6 @@ https://nodejs.dev/learn
 
 If you've finished this tutorial leave me a message.
 email: balandinosalex@gmail.com
-
+facebook https://m.facebook.com/tatoonpolygamesdev/?ref=m_notif&notif_t=page_user_activity
 keep coding amigos.
 
